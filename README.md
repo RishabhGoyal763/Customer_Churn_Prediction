@@ -1,6 +1,5 @@
 # Customer_Churn_Prediction
 
-<<<<<<< HEAD
 ﻿# Customer360 AI
 
 **Customer Segmentation, Churn Prediction & Retention Intelligence Platform**
